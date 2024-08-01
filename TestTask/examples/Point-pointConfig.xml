@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<name>Точка-точка</name>
+	<description>ipconfig -a 192.168.0.21 -m 255.255.255.0 -g 192.168.0.1</description>
+</config>

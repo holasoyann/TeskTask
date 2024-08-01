@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<name>Использование протокола IGMP</name>
+	<description>set IP/current-config/NetworkAddr 192.168.0.21
+		set IP/current-config/NetworkMask 255.255.255.0
+		set IP/current-config/DefaultGateway 192.168.0.1
+		set IP/IGMP/config/Mode Snooping
+		set IP/IGMP/config/Ports 0,1
+
+		save-config
+	</description>
+</config>
